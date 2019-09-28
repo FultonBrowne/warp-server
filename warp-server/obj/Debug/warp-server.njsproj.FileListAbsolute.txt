@@ -1,0 +1,2 @@
+C:\Users\pholtor\Desktop\code\warp-server\warp-server\obj\Debug\warp-server.njsprojAssemblyReference.cache
+C:\Users\pholtor\Desktop\code\warp-server\warp-server\bin\Microsoft.NodejsTools.WebRole.dll

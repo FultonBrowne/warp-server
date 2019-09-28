@@ -1,0 +1,9 @@
+{
+  "name": "warp-server",
+  "version": "0.0.0",
+  "description": "warp-server",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
