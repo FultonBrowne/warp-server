@@ -15,9 +15,4 @@ http.createServer(function (req, res) {
     res.writeHead(200, { 'Content-Type': 'text/plain' });
     //parse input
     res.end(string);
-    //fun loop
-    while (bool) {
-        res.end(string);
-        
-    }
 }).listen(port);
